@@ -1,0 +1,46 @@
+# Heap Data Structure & Heap Sort Algorithm
+
+## Self-Study Project for COMP2090SEF - Task 2
+
+---
+
+## 1. Project Overview
+
+This project implements two computer science concepts not covered in the course:
+
+| Concept | Description |
+|---------|-------------|
+| **Heap** | A special complete binary tree data structure (Min Heap & Max Heap) |
+| **Heap Sort** | A comparison-based sorting algorithm using heap data structure |
+
+---
+
+## 2. Files Description
+
+| File | Description |
+|------|-------------|
+| `heap.py` | Implementation of MinHeap and MaxHeap classes |
+| `heap_sort.py` | Implementation of heap sort algorithm |
+| `main.py` | Demonstration program with test cases |
+| `README.md` | This user guide |
+
+---
+
+## 3. Requirements
+
+- **Python Version**: Python 3.7 or higher
+- **External Libraries**: None (uses only Python standard library)
+
+---
+
+## 4. How to Run
+
+### Step 1: Download the files
+
+Download all four files to the same folder:
+### Step 2: Run the program
+
+**Option A: Using Command Line / Terminal**
+
+```bash
+python main.py
