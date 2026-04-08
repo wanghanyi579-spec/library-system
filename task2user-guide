@@ -1,0 +1,16 @@
+# Heap Sort - User Guide
+
+## Student Information
+- **Name**: Wang Hanyi
+- **Student ID**: 13357481
+- **Course**: COMP2090SEF
+
+## Requirements
+- Python 3.6 or higher
+- No external libraries required
+
+## How to Run
+
+### Method 1: Run the script directly
+```bash
+python heap_sort.py
